@@ -28,6 +28,11 @@ html,body
   width: 25%;
   min-width: 180px;
 }
+#section-droite
+{
+    position: relative;
+    margin-top: 16px;
+}
 #section_center
 {
   width: 50%;
@@ -127,4 +132,14 @@ border-radius:2px;
 {
   font-size: 12px;
   color: #000000;
+}
+.volume_barre
+{
+  width: 180px;
+  position: absolute;
+  right: 0px;
+}
+.volume_barre .progressbarre
+{
+  width: 125px; 
 }

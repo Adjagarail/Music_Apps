@@ -77,7 +77,20 @@
                   </div>
                 </div>
                 
-                <div id="section_droite"></div>
+                <div id="section_droite">
+                  <div class="volume_barre boutons">
+                    <button class="boutonscontroleurs volume" title="volume">
+                      <img src="Images/Controleurs/volume.png" alt="volume">
+                    </button>
+
+                    <div class="progressbarre">
+                        <div class="progressbarrebg">
+                          <div class="progress"></div>
+                        </div>
+                      </div>
+
+                  </div>
+                </div>
 
       </div>
 
