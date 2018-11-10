@@ -2,10 +2,10 @@
 <html lang="fr" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>PlayingBar</title>
+    <title>Music Apps Bienvenue</title>
     <link rel="stylesheet" href="Css/style.css">
   </head>
-  <body>
+  <body class="background">
     <div class="container">
 
       <div id="corps">
