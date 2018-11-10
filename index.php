@@ -13,8 +13,22 @@
                 <div id="section_gauche">
                   <div class="contenue">
                     <span class="album">
-                      <img src="" alt="poster_album">
+                      <img src="Images/Poster/ed_sheran.jpg" class="poster_album" alt="poster_album">
                     </span>
+
+                        <div class="album_info">
+
+                          <span class="nom_album">
+                            <span>Shape of You </span>
+                          </span>
+
+                          <span class="nom_artiste">
+                            <span>Ed Sheran</span>
+                          </span>
+
+                        </div>
+
+
                   </div>
                 </div>
 
